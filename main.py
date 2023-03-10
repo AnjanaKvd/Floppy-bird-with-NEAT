@@ -164,7 +164,7 @@ class Pipe():
         return False
 
 
-class base:
+class Base:
     VEL = 5
     WIDTH = BASE_IMG.get_width()
     IMG = BASE_IMG
